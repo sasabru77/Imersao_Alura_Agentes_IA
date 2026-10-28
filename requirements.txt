@@ -1,0 +1,7 @@
+# Imersão Calculadora IA - Requisitos Python
+#
+# Para as 4 operações básicas e o agente Alura_IA (modo heurístico):
+# Nenhuma dependência externa necessária! Roda com Python 3 puro.
+#
+# Opcional (apenas se desejar usar o Gemini oficial do Google via Python):
+google-genai>=2.4.0

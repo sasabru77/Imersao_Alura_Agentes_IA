@@ -1,0 +1,26 @@
+# Dependências e Builds
+node_modules/
+build/
+dist/
+coverage/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Arquivos de Sistema e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs e Variáveis de Ambiente
+*.log
+.env*
+!.env.example
